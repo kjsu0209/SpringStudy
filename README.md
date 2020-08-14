@@ -7,7 +7,7 @@
 ## 목차
 1. DI  
 * 개념 정리  
-* 관련 질문  
+* 관련 질문  [link](https://github.com/kjsu0209/SpringStudy/blob/master/200807/ch3-5_question.md)
 2. AOP, DB 접속  
 * 개념 정리  
 * 관련 질문  [link](https://github.com/kjsu0209/SpringStudy/blob/master/200814/%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8.md)   
