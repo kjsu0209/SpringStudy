@@ -18,7 +18,7 @@
 * 개념 정리   
 * 관련 질문 [link](https://github.com/kjsu0209/SpringStudy/blob/master/200821/MVCquestions.md)         
 ---
-#### Project 2       
+#### Project 2: MVC 활용한 프로젝트       
 [반려동물 커뮤니티]()       
 
 
