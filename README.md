@@ -20,6 +20,7 @@
 ---
 #### Project 2: MVC 활용한 프로젝트       
 [반려동물 커뮤니티]()       
+[모여라 스터디](https://github.com/yoo-jaein/SpringProject)
 
 
 ---    
