@@ -18,5 +18,5 @@
 * 개념 정리   
 * 관련 질문 [link](https://github.com/kjsu0209/SpringStudy/blob/master/200821/MVCquestions.md)         
 ---
-#### Project        
+#### Project 2       
 [반려동물 커뮤니티]()
