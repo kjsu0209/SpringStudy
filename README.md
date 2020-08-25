@@ -15,7 +15,7 @@
 #### Project 1: 명함 관리 프로그램 [자세히](https://www.edwith.org/boostcourse-web-be/joinLectures/28364)   
 ---   
 3. MVC   
-* 개념 정리   
+* 개념 정리  CH10 : https://github.com/kjsu0209/SpringStudy/blob/master/200821/chap10.pdf 
 * 관련 질문 [link](https://github.com/kjsu0209/SpringStudy/blob/master/200821/MVCquestions.md)         
 ---
 #### Project 2: MVC 활용한 프로젝트       
