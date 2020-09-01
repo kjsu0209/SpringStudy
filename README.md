@@ -6,7 +6,7 @@
 ---
 ## 목차
 1. DI  
-* 개념 정리  
+* 개념 정리  [CH3](https://github.com/kjsu0209/SpringStudy/blob/master/200807/ch3.pdf)
 * 관련 질문  [link](https://github.com/kjsu0209/SpringStudy/blob/master/200807/ch3-5_question.md)
 2. AOP, DB 접속  
 * 개념 정리  [CH6-7](https://github.com/kjsu0209/SpringStudy/blob/master/200814/chap06-7.pdf) [CH8](https://github.com/kjsu0209/SpringStudy/blob/master/200814/chap8.pdf)
@@ -20,7 +20,7 @@
 ---
 #### Project 2: MVC 활용한 프로젝트       
 [반려동물 커뮤니티](https://github.com/kjsu0209/OkeyDogki_Web)       
-[모여라 스터디](https://github.com/yoo-jaein/SpringProject)
+[모여라 스터디](https://github.com/yoo-jaein/SpringProject)   
 [주식대쉬보드](https://github.com/jaySHKorea/StockDashboard)
 
 
