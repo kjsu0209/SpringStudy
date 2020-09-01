@@ -31,3 +31,9 @@
 [CH12 메세지 프로퍼티](https://github.com/kjsu0209/SpringStudy/blob/master/200828/chap12_message.md)      
 [CH12 커맨드 객체 값 검증](https://github.com/kjsu0209/SpringStudy/blob/master/200828/chap12_validation.md)             
 * 관련 질문 [link](https://github.com/kjsu0209/SpringStudy/blob/master/200828/MVCquestions2.md)       
+
+---
+5. MVC 3
+* 개념 정리
+[CH13](https://github.com/kjsu0209/SpringStudy/blob/master/200904/chap13.pdf)
+* 관련 질문
