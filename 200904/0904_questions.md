@@ -41,7 +41,7 @@ Http의 Connectionless,Stateless 특징 때문에 지속적으로 클라이언�
 
 ### URL / URI / URN
 
-- URL이 가장 큰 범주, 내부 부분집합에 URN과 URL이 존재
+- UR이 가장 큰 범주, 내부 부분집합에 URN과 URL이 존재
 
 - URL ( Uniform Resource Locator ) : 
 	- 자원
