@@ -1,4 +1,4 @@
-### Session과 Cookie의 차이
+### [Session과 Cookie의 차이](https://interconnection.tistory.com/74)
 Http의 Connectionless,Stateless 특징 때문에 지속적으로 클라이언트의 정보를 확인하기 위한 방법
 
 - Sessiosn
@@ -10,9 +10,6 @@ Http의 Connectionless,Stateless 특징 때문에 지속적으로 클라이언�
 	- 사용자의 디스크/웹 브라우저 메모리에 텍스트 파일로 저장
 	- 요청 속도 빠름
 	- Client PC에 저장되기 때문에, 다른 사용자에 의해 임의 변경이 가능 => session에 비해 보안성이 낮은 이유
-
-	< 쿠키와 세션의 라이프사이클 >
-	[링크](https://interconnection.tistory.com/74)
 
 => session의 서버 메모리 부하 문제 때문에 JWT(Json Web Token)을 사용하기도...
 
@@ -31,17 +28,16 @@ Http의 Connectionless,Stateless 특징 때문에 지속적으로 클라이언�
 => 인코딩/보안 관련 처리와 같이 web app의 전역적 처리에 대한 로직 : filter
 => 클라이언트에서 들어오는 디테일한 처리(인증,권한)에 대한 로직 : Interceptor
 
-### Java의 데이터 타입 ( Array, ArrayList,LinkedList, Map, HashMap )의 특징과 차이
-	[링크](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0)
+### [java의 데이터 타입](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0) ( Array, ArrayList,LinkedList, Map, HashMap )의 특징과 차이
 
-### Jenkins
+
+### [Jenkins](https://ict-nroo.tistory.com/31)
 - CI 툴
 - SW 개발 통합 서비스
-	[링크](https://ict-nroo.tistory.com/31)
 
-### Garbage Collection(GC) - 자바 메모리 관리
+
+### [Garbage Collector(GC)](https://velog.io/@litien/%EA%B0%80%EB%B9%84%EC%A7%80-%EC%BB%AC%EB%A0%89%ED%84%B0GC) - 자바 메모리 관리
 - JVM 기반 java는 OS단에서 메모리 누수를 잡을 수 없어서, 정리되지 않거나, 앞으로 사용하지 않고 메모리는 가지고 있는 객체들에 대해 Garbage로 분류, 메모리가 부족할 때 free함
-	[링크](https://velog.io/@litien/%EA%B0%80%EB%B9%84%EC%A7%80-%EC%BB%AC%EB%A0%89%ED%84%B0GC)
 
 ### URL / URI / URN
 
