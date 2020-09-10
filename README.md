@@ -40,3 +40,8 @@
 [CH14](https://github.com/kjsu0209/SpringStudy/blob/master/200904/chap14.pdf)
 * 관련 질문
 [link](https://github.com/kjsu0209/SpringStudy/blob/master/200904/0904_questions.md)
+
+---       
+6. Spring 웹 구조, 프로필, 프로퍼티       
+* 개념 정리    
+* 관련 질문        
