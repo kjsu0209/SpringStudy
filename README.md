@@ -45,7 +45,8 @@
 6. Spring 웹 구조, 프로필, 프로퍼티       
 * 개념 정리    
 [프로필](https://github.com/kjsu0209/SpringStudy/blob/master/200911/chap17_profile.md), [프로퍼티](https://github.com/kjsu0209/SpringStudy/blob/master/200911/chap17_property.md)
-* 관련 질문        
+* 관련 질문
+[link](https://github.com/kjsu0209/SpringStudy/blob/master/200911/0911_questions.md)
 
 ---
 7. JSON      
