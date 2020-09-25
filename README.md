@@ -49,7 +49,8 @@
 [link](https://github.com/kjsu0209/SpringStudy/blob/master/200911/0911_questions.md)
 
 ---
-7. JSON      
+7. JSON, Spring boot      
 * 개념 정리    
+[타임리프](https://github.com/kjsu0209/SpringStudy/blob/master/200925/thymeleaf.md)
 * 관련 질문     
 
