@@ -2,6 +2,7 @@
 ---
 참고 서적
 * 초보 웹 개발자를 위한 스프링5 프로그래밍 입문 (최범균 저)
+* 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 (이동욱 저)
 
 ---
 ## 목차
@@ -54,4 +55,6 @@
 [타임리프](https://github.com/kjsu0209/SpringStudy/blob/master/200925/thymeleaf.md)  
 [Spring boot](https://github.com/kjsu0209/SpringStudy/blob/master/200925/springboot.pdf)
 * 관련 질문     
+
+---
 
