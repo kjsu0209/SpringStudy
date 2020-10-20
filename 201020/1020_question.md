@@ -21,14 +21,14 @@
 	2. @WebMvcTest 어노테이션 - MVC 슬라이드 테스트
 
 2. 직접 생성 (단독 모드)
-'''java
+```java
 @Before
 public void before() {
   	mockMvc = MockMvcBuilders.standaloneSetup(MyController.class)
           	    .alwaysExpect(MockMvcResultMatchers.status().isOk())
            	    .build();
 }
-'''
+```
 ---
 
 # 관련 질문
@@ -51,9 +51,9 @@ ex ) MVC가 설정되어있다 -> DispatcherServlet이 설정됨
 - gradle 혹은 Maven build file에 추가하면, 의존성 jar 파일이 자동으로 로드 됨
 
 ### 4. Spring boot actuator
-'''xml
+```xml
 <artifactId>spring-boot-starter-actuator</artifactId>
-'''
+```
 - 어플리케이션의 상태를 종합적으로 정리하여 제공해줌
 - 스프링 부트 어플리케이션의 상태를 관리해줌
 	- 상태정보 ( properties, beans, 구동된 auto configurations )
