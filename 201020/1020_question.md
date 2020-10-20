@@ -32,35 +32,35 @@ public void before() {
 ---
 
 # 관련 질문
-###1. 스프링 부트의 특징
+### 1. 스프링 부트의 특징
 - auto configuration
 - embedded servlet container
 - starter-dependencies
 - Actuator
 - Spring Boot CLI ( Groovy )
 
-###2. Spring boot에서 auto configuration 이란?
+### 2. Spring boot에서 auto configuration 이란?
 - 빌드하고자 하는 어플리케이션이 어떤 종류의 어플리케이션인지 탐지해서 어플리케이션이 필요로 하는 컴포넌트들을 자동으로 설정해줌
 
 ex ) Security 설정이 되어있으면 특정 페이지에 대한 접근 권한이 없는데 요청된 경우 스프링 부트 자체의 로그인 페이지를 보여줌
 ex ) MVC가 설정되어있다 -> DispatcherServlet이 설정됨
 
-###3. Spring boot의 Starter dependency
+### 3. Spring boot의 Starter dependency
 - 스프링부트에서 의존성 관리 문제를 해결해줌
 - 특정 dependency (ex : thymeleaf, JPA)가 현재 프로젝트에 몇 버전이 적합한지 어떤 의존성 리스트가 필요한지 알 필요 없음
 - gradle 혹은 Maven build file에 추가하면, 의존성 jar 파일이 자동으로 로드 됨
 
-###4. Spring boot actuator
+### 4. Spring boot actuator
 '''<artifactId>spring-boot-starter-actuator</artifactId>'''
 - 어플리케이션의 상태를 종합적으로 정리하여 제공해줌
 - 스프링 부트 어플리케이션의 상태를 관리해줌
 	- 상태정보 ( properties, beans, 구동된 auto configurations )
 	- 각종 추상화 클래스 제공
 
-###5. Groovy
+### 5. Groovy
 - JVM 상에서 동작하는 동적 스크립팅 언어
 - 자바에는 없는 간편 표기법을 지원, 외에 리스트,맵, 정귯기을 위한 구문 제공
 => 프로그래밍을 쉽고 간결하게 해줌
 
-###6.리팩토링
+### 6.리팩토링
 - [코드의 나쁜냄새와 리팩토링](https://m.blog.naver.com/PostView.nhn?blogId=magnking&logNo=220973095825&proxyReferer=https:%2F%2Fwww.google.com%2F)
