@@ -17,7 +17,7 @@
 
 1. 자동 주입
 	클래스 선언 위에
-	1. @SpringBootTest + @AutoConfigureMocMvc 어노테이션 - 통합테스트
+	1. @SpringBootTest + @AutoConfigureMockMvc 어노테이션 - 통합테스트
 	2. @WebMvcTest 어노테이션 - MVC 슬라이드 테스트
 
 2. 직접 생성 (단독 모드)
@@ -61,7 +61,7 @@ ex ) MVC가 설정되어있다 -> DispatcherServlet이 설정됨
 
 ### 5. Groovy
 - JVM 상에서 동작하는 동적 스크립팅 언어
-- 자바에는 없는 간편 표기법을 지원, 외에 리스트,맵, 정귯기을 위한 구문 제공
+- 자바에는 없는 간편 표기법을 지원, 외에 리스트,맵, 정규식을 위한 구문 제공
 => 프로그래밍을 쉽고 간결하게 해줌
 
 ### 6.리팩토링
