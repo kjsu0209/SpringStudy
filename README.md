@@ -52,6 +52,7 @@
 ---
 7. JSON, Spring boot      
 * 개념 정리    
+[JSON](https://github.com/kjsu0209/SpringStudy/blob/master/200925/chap16.pdf)
 [타임리프](https://github.com/kjsu0209/SpringStudy/blob/master/200925/thymeleaf.md)  
 [Spring boot](https://github.com/kjsu0209/SpringStudy/blob/master/200925/springboot.pdf)
 * 관련 질문     
@@ -65,3 +66,5 @@
 
 ---
 9. JPA
+* 개념 정리
+* 관련 질문
