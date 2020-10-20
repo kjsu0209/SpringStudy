@@ -60,7 +60,7 @@
 
 8. TDD, Lombok
 * [개념 정리](https://github.com/kjsu0209/SpringStudy/blob/master/201020/1020.pdf)
-* 관련 질문
+* [관련 질문](https://github.com/kjsu0209/SpringStudy/blob/master/201020/1020_question.md)
 
 
 ---
