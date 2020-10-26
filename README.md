@@ -66,5 +66,5 @@
 
 ---
 9. JPA
-* 개념 정리
+* [개념 정리](https://github.com/kjsu0209/SpringStudy/blob/master/201029/CH3_JPA.pdf)
 * 관련 질문
