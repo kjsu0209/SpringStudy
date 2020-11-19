@@ -85,3 +85,5 @@
 [개발자 위키](https://github.com/kjsu0209/SpringBootProject)
 
 ---
+12. 프로젝트 1주차  
+[진행상황](https://github.com/kjsu0209/SpringStudy/issues/2)
