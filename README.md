@@ -78,7 +78,7 @@
 11. 스프링 시큐리티   
 * 개념 정리  
 [어노테이션/세션 저장소](https://github.com/kjsu0209/SpringStudy/blob/master/201119/2.md)
-* 관련 질문
+* [관련 질문](https://github.com/kjsu0209/SpringStudy/blob/master/201119/1119_question.md)
 
 ---
 #### Project 3: 스프링 부트 프로젝트   
