@@ -77,13 +77,13 @@
 ---
 11. 스프링 시큐리티   
 * 개념 정리
-[스프링 시큐리티](https://github.com/kjsu0209/SpringStudy/blob/master/201119/CH5.3%20Security.pdf)
+[스프링 시큐리티](https://github.com/kjsu0209/SpringStudy/blob/master/201119/CH5.3%20Security.pdf)<br>
 [어노테이션/세션 저장소](https://github.com/kjsu0209/SpringStudy/blob/master/201119/2.md)
 * [관련 질문](https://github.com/kjsu0209/SpringStudy/blob/master/201119/1119_question.md)
 
 ---
 #### Project 3: 스프링 부트 프로젝트   
-[개발자 위키](https://github.com/kjsu0209/SpringBootProject)
+[개발자 위키](https://github.com/kjsu0209/SpringBootProject)<br>
 [모니터링 대쉬보드](https://github.com/jaySHKorea/Jdash-springboot2)
 
 ---
