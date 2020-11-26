@@ -92,4 +92,4 @@
 
 ---
 13. 프로젝트 2주차 & 배포    
-[진행상황]()
+[진행상황](https://github.com/kjsu0209/SpringStudy/issues/3)
