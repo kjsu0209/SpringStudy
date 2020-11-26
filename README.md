@@ -89,3 +89,7 @@
 ---
 12. 프로젝트 1주차 & EC2/RDS  
 [진행상황](https://github.com/kjsu0209/SpringStudy/issues/2)
+
+---
+13. 프로젝트 2주차 & 배포    
+[진행상황]()
